@@ -1,4 +1,4 @@
-import randomd
+import random
 def noppa():
     return random.randint(1, 6)
 silmaluku = 0
